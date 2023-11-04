@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm sailee gayke</h1>
+<h1 align="center">Hi 👋, I'm Sailee Gayke</h1>
 <h3 align="center">🚀 Proficient in DSA, Frontend Dev 🌐, and dabbling in Cloud Computing ☁️.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
+<br>
+<img width="1000" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<br>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 <br>
 
 🔭 I’m currently working on **user based hms**
@@ -13,15 +16,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sailee-gayke-276948284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/sailee-gayke-276948284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-
-<a href="https://instagram.com/sailee.31" target="blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="sailee.31" height="30" width="40"></a>
-
-<a href="https://www.hackerrank.com/sailee_gayke31" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="sailee_gayke31" height="30" width="40"></a>
-
-<a href="https://www.leetcode.com/sailee31" target="blank">
-<img  src="https://external-preview.redd.it/N2qR7Uy4eX9atux_MJ54_VHauE60QG6eLpfmFdNPJ20.jpg?auto=webp&s=a8f7e61a39dbe6cb6c8e9b3043167f05e1acba93" alt="sailee31" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sailee-gayke-276948284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/sailee-gayke-276948284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>    <a href="https://www.leetcode.com/sailee31" target="blank"> <img  src="https://external-preview.redd.it/N2qR7Uy4eX9atux_MJ54_VHauE60QG6eLpfmFdNPJ20.jpg?auto=webp&s=a8f7e61a39dbe6cb6c8e9b3043167f05e1acba93" alt="sailee31" height="30" width="40" /></a>   <a href="https://www.hackerrank.com/sailee_gayke31" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="sailee_gayke31" height="30" width="40"></a>   <a href="https://instagram.com/sailee.31" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="sailee.31" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
