@@ -26,10 +26,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
-<a href="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" target="_blank" rel="noreferrer"> 
-<img src="" alt="aws" width="40" height="40"/> </a> 
-  
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="bootstrap" width="40" height="40"/> </a>
 
@@ -40,10 +36,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="html" width="40" height="40"/> </a> 
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/Deathopex/Deathopex/blob/def02e3bd85d029883fc9c54453b21ba77484725/java.gif" alt="java" width="40" height="40"/> </a> 
+<img src="https://camo.githubusercontent.com/b24914711d892af6d10c99624bb0fa576a0611ae17eb125380c517b2059063a4/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966" alt="java" width="40" height="40"/> </a> 
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+MySQL | AWS
+</p>
