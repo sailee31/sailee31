@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sailee Gayke</h1>
 <h3 align="center">🚀 Proficient in DSA, Frontend Dev 🌐, and dabbling in Cloud Computing ☁️.</h3>
 <br>
-<img width="1000" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img align="center" width="900" height="180" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 <br>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 <br>
